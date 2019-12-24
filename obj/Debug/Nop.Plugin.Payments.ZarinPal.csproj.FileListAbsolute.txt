@@ -1,0 +1,12 @@
+D:\NOP\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.ZarinPal\web.config
+D:\NOP\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.ZarinPal\Description.txt
+D:\NOP\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.ZarinPal\logo.jpg
+D:\NOP\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.ZarinPal\Views\Configure.cshtml
+D:\NOP\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.ZarinPal\Views\PaymentCancelled.cshtml
+D:\NOP\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.ZarinPal\Views\PaymentInfo.cshtml
+D:\NOP\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.ZarinPal\Nop.Plugin.Payments.ZarinPal.dll.config
+D:\NOP\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.ZarinPal\Nop.Plugin.Payments.ZarinPal.dll
+D:\NOP\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.ZarinPal\Nop.Plugin.Payments.ZarinPal.pdb
+D:\NOP\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.ZarinPal\obj\Debug\Nop.Plugin.Payments.ZarinPal.csprojResolveAssemblyReference.cache
+D:\NOP\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.ZarinPal\obj\Debug\Nop.Plugin.Payments.ZarinPal.dll
+D:\NOP\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.ZarinPal\obj\Debug\Nop.Plugin.Payments.ZarinPal.pdb
